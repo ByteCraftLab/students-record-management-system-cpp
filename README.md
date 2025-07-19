@@ -1,4 +1,4 @@
-# School Management System (C++ Console App)
+# Students Record Management System (C++ Console App)
 
 This is a simple Student Record Management System developed in C++ for a coursework project.
 
